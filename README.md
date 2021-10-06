@@ -1,6 +1,6 @@
 # FastPass
 ### Equipo 1.
-- Flores Juárez Víctor
+- Flores Juárez Víctorr
 - Chavez Bagundo Emanuel
 - Maldonado Santiago Gildardo Adrián
 - Pacheco Esteban
@@ -20,7 +20,6 @@ https://docs.google.com/document/d/1h3XbycyyqCcfgyYptjels2yNw-Z-6XSDhFHGLDsd8O4/
 
 
 ### Proyecto
-
 
 
 
