@@ -1,6 +1,6 @@
 # FastPass
 ### Equipo 1.
-- Flores Juárez Víctorr
+- Flores Juárez Víctor
 - Chavez Bagundo Emanuel
 - Maldonado Santiago Gildardo Adrián
 - Pacheco Esteban
