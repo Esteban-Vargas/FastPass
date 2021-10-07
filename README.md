@@ -16,6 +16,9 @@ El principal público que consume estas cuentas son personas que desean cuentas 
 [DescripcionDocs](https://docs.google.com/document/d/1h3XbycyyqCcfgyYptjels2yNw-Z-6XSDhFHGLDsd8O4/edit?usp=sharing)
 
 ### Trabajo en equipo
+[Roles y Tareas](https://github.com/EmaRCB/FastPass/blob/main/Roles%20y%20Tareas)
+[Proceso de Trabajo]
+[Responsabilidades y Contribuciones]
 
 ### Competencias de la Asignatura
 
