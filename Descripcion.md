@@ -5,6 +5,9 @@ Nuestro objetivo general es desarrollar un bot para la plataforma de mensajería
 
 
 ## Objetivos especificos
+-
+-
+-
 
 ## Usuarios
 
