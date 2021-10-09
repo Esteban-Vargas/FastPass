@@ -1,4 +1,5 @@
 # FastPass
+![FastPass](raw.githubusercontent.com/EmaRCB/FastPass/blob/main/Recursos/Logo.png)
 ### Equipo 1.
 - Flores Juárez Víctor
 - Chavez Bagundo Emanuel
