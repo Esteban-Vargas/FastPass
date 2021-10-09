@@ -22,11 +22,8 @@ El principal público que consume estas cuentas son personas que desean cuentas 
 - [Proceso de Trabajo]
 - [Responsabilidades y Contribuciones]
 
-### Competencias de la Asignatura
-
-
 ### Proyecto
-
+- [Entrega 1: Video]
 
 
 
