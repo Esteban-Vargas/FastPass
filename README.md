@@ -1,6 +1,6 @@
 # FastPass
-![FastPass](raw.githubusercontent.com/EmaRCB/FastPass/main/Recursos/Logo.png)
 <img src="https://github.com/EmaRCB/FastPass/blob/main/Recursos/Logo.png" alt="Logo" width="100%" height="80%">
+
 ### Equipo 1.
 - Flores Juárez Víctor
 - Chavez Bagundo Emanuel
