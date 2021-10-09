@@ -14,13 +14,13 @@ FastPass es un bot para la plataforma de mensajería instantánea "Discord" que,
 El principal público que consume estas cuentas son personas que desean cuentas limpias (personas que, por agregar, no es la primera vez que juegan)  para empezarlas a subir desde 0 (o desde ciertos rangos), o que quieren skins exclusivas que ya no es posible conseguir con medios convencionales. 
 
 ### Descripción de la aplicación
-[Descripcion](https://github.com/EmaRCB/FastPass/blob/main/Descripcion.md)
-[DescripcionDocs](https://docs.google.com/document/d/1h3XbycyyqCcfgyYptjels2yNw-Z-6XSDhFHGLDsd8O4/edit?usp=sharing)
+- [Descripcion](https://github.com/EmaRCB/FastPass/blob/main/Descripcion.md)
+- [Planeacion del proyecto](https://github.com/EmaRCB/FastPass/blob/main/Documentaci%C3%B3n/PlaneacionDelProyecto.md)
 
 ### Trabajo en equipo
-[Roles y Tareas](https://github.com/EmaRCB/FastPass/blob/main/Roles%20y%20Tareas)
-[Proceso de Trabajo]
-[Responsabilidades y Contribuciones]
+- [Roles y Tareas](https://github.com/EmaRCB/FastPass/blob/main/Roles%20y%20Tareas)
+- [Proceso de Trabajo]
+- [Responsabilidades y Contribuciones]
 
 ### Competencias de la Asignatura
 
