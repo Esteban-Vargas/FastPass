@@ -17,6 +17,10 @@ El principal público que consume estas cuentas son personas que desean cuentas 
 - [Descripcion](https://github.com/EmaRCB/FastPass/blob/main/Descripcion.md)
 - [Planeacion del proyecto](https://github.com/EmaRCB/FastPass/blob/main/Documentaci%C3%B3n/PlaneacionDelProyecto.md)
 
+### Documentación de la aplicación
+- [Descripcion](https://github.com/EmaRCB/FastPass/blob/main/Descripcion.md)
+- [Planeacion del proyecto](https://github.com/EmaRCB/FastPass/blob/main/Documentaci%C3%B3n/PlaneacionDelProyecto.md)
+
 ### Trabajo en equipo
 - [Roles y Tareas](https://github.com/EmaRCB/FastPass/blob/main/Roles%20y%20Tareas)
 - [Proceso de Trabajo]
