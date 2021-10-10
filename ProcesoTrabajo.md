@@ -1,5 +1,7 @@
-### Proceso de Trabajo
+# Proceso de Trabajo
 
+## Metodología:
+SCRUM
 
 ## Organizacion y gestión de tareas:
 ddd
