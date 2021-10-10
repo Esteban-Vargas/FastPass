@@ -20,7 +20,7 @@ El principal público que consume estas cuentas son personas que desean cuentas 
 
 ### Trabajo en equipo
 - [Roles y Tareas](https://github.com/EmaRCB/FastPass/blob/main/Roles%20y%20Tareas)
-- [Proceso de Trabajo]
+- [Proceso de Trabajo](https://github.com/EmaRCB/FastPass/blob/main/ProcesoTrabajo.md)
 - [Responsabilidades y Contribuciones](https://github.com/EmaRCB/FastPass/blob/main/Documentaci%C3%B3n/Responsabilidades%20y%20Contribuciones.md)
 
 ### Proyecto
