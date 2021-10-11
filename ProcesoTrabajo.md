@@ -32,7 +32,7 @@ Otras observaciones respecto a la metodología que implementaremos es:
 ddd
 
 ## Medios de comunicación
-### WhatsApp, Microsoft Teams y Discord
+
 El equipo se comunicará por medio de las aplicaciones de WhatsApp, Microsoft Teams y Discord respectivamente.
 - WhatsApp: Esta aplicación será el medio principal de comunicación del equipo, donde se acordarán todas las reuniones, cambios, ideas e implementaciones que podrían agregarse al proyecto.
 - Microsoft Teams: Por esta aplicación se realizarán las juntas semanales con el asesor/profesor: Edgar Cambranes, a quien le mostraremos nuestros avances semanales del proyecto.
