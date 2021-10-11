@@ -7,10 +7,15 @@ Usuario: Ser el que usa el sistema
 FFFF
 ## Requerimientos del sistema
 ### Requerimientos funcionales
-- RF011. Nombre
-Prioridad:
-Descripción:
-### Requerimientos no funcionales
+- RF001. Forma de responder.
+Prioridad: Alta
+Descripción: El bot responde con un mensaje tras detectar uno de los comandos para los que fue programado.
+- RF002. Comando de ayuda.
+Prioridad: Alta
+Descripción: El bot responde con los comandos disponibles.
+- RF003. Búsqueda.
+Prioridad: Alta
+Descripción: El bot responde con el link donde se encuentran las cuentas.
 - RNF011. Accesibilidad solo a usuarios de Discord.
 Prioridad: Baja
 Descripción: Para poder invocar al bot, el usuario necesitarà estar registrado en Discord y ser parte de un servidor en específico, al cual será añadido el bot.
