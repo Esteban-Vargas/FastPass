@@ -11,9 +11,22 @@ Las características de esta metodología son 3:
 - Adaptación: Cuando hay algo que cambiar, el equipo se ajunta para conseguir el objetivo.
 
 Tomando en cuenta lo anterior dicho la propuesta para implementar la metodología SCRUM a nuestro proyecto es:
+
+Cada sprint tendrá una duración de una semana. El fin de cada sprint (sprint review) será después de la reunión semanal que se tenga con el Dr. Edgar Cambranes.
+
+El sprint planning se llevará después de la reunión con el Dr. Edgar Cambranes. La duración será de una hora como máximo. El resultado de esta reunión será el sprint goal y el sprint backlog.
+
+Los daily meeting se llevarán a cabo todos los días hábiles de la semana. Se espera que la duración de estos sea, como máximo, de 15 minutos. En dichas reuniones se discutirá acerca del "qué hice ayer?" "qué haré hoy?" y se notificará de posibles impedimentos.
+
+El sprint retrospective se llevará a cabo como el último evento a realizar, este tentativamente se llevará a cabo tras la última entrega.
+
+Otras observaciones respecto a la metodología que implementaremos es: 
+
 - Hacer uso de los medios de comunicación elegidos para comentar cualquier cosa relacionada a nuestro proyecto. Esto con el fin de que todos sepan el rumbo que este está tomando siempre. Dichos comentarios se realizan cuando se considera pertinente, no hay un horario específico para hacerlos.
 - Todos los miembros harán revisiones completas del proyecto al menos una vez a la semana.
 - En caso de que algún miembro detecte alguna falla, o tenga una propuesta para mejorar el proyecto, se pondrá de acuerdo con el resto de miembros para discutir lo descubierto/propuesto en una llamada utilizando los medios de comunicación propuestos
+- El sprint goal es el objetivo para un sprint.
+- El sprint backlog es el grupo de tareas que el equipo de desarrollo elige en el sprint planning junto con el plan para poder llevarlas a cabo.
 
 ## Organizacion y gestión de tareas:
 ddd
