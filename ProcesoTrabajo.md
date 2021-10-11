@@ -14,7 +14,7 @@ Tomando en cuenta lo anterior dicho la propuesta para implementar la metodologí
 
 Cada sprint tendrá una duración de una semana. El fin de cada sprint (sprint review) será después de la reunión semanal que se tenga con el Dr. Edgar Cambranes.
 
-El sprint planning se llevará después de la reunión con el Dr. Edgar Cambranes. La duración será de una hora como máximo. El resultado de esta reunión será el sprint goal y el sprint backlog.
+El sprint planning se hará un día después de la reunión con el Dr. Edgar Cambranes. La duración será de una hora como máximo. El resultado de esta reunión será el sprint goal y el sprint backlog.
 
 Los daily meeting se llevarán a cabo todos los días hábiles de la semana. Se espera que la duración de estos sea, como máximo, de 15 minutos. En dichas reuniones se discutirá acerca del "qué hice ayer?" "qué haré hoy?" y se notificará de posibles impedimentos.
 
