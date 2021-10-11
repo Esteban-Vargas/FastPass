@@ -16,6 +16,8 @@ Descripción: El bot responde con los comandos disponibles.
 - RF003. Búsqueda.
 Prioridad: Alta
 Descripción: El bot responde con el link donde se encuentran las cuentas.
+
+### Requerimientos no funcionales
 - RNF011. Accesibilidad solo a usuarios de Discord.
 Prioridad: Baja
 Descripción: Para poder invocar al bot, el usuario necesitarà estar registrado en Discord y ser parte de un servidor en específico, al cual será añadido el bot.
