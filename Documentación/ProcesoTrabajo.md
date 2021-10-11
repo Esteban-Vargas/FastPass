@@ -8,7 +8,7 @@ La metodología SCRUM es un proceso en el que se llevan a cabo un conjunto de ta
 Las características de esta metodología son 3:
 - Transparencia: Todos saben qué está ocurriento con el proyecto en todo momento.
 - Inspección: Frecuentemente los miembros del equipo Scrum inspeccionan el progreso para detectar posibles problemas.
-- Adaptación: Cuando hay algo que cambiar, el equipo se ajunta para conseguir el objetivo.
+- Adaptación: Cuando hay algo que cambiar, el equipo se junta para conseguir el objetivo.
 
 Tomando en cuenta lo anterior dicho la propuesta para implementar la metodología SCRUM a nuestro proyecto es:
 
