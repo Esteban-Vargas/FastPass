@@ -1,7 +1,18 @@
 # Proceso de Trabajo
 
 ## Metodología:
-SCRUM
+SCRUM.
+
+La metodología SCRUM es un proceso en el que se llevan a cabo un conjunto de tareas de forma regular con el objetivo principal de trabajar de manera colaborativa. En resumen... trabajar en equipo de forma organizada.
+Las características de esta metodología son 3:
+- Transparencia: Todos saben qué está ocurriento con el proyecto en todo momento.
+- Inspección: Frecuentemente los miembros del equipo Scrum inspeccionan el progreso para detectar posibles problemas.
+- Adaptación: Cuando hay algo que cambiar, el equipo se ajunta para conseguir el objetivo.
+
+Tomando en cuenta lo anterior dicho la propuesta para implementar la metodología SCRUM a nuestro proyecto es:
+- Hacer uso de los medios de comunicación elegidos para comentar cualquier cosa relacionada a nuestro proyecto. Esto con el fin de que todos sepan el rumbo que este está tomando siempre. Dichos comentarios se realizan cuando se considera pertinente, no hay un horario específico para hacerlos.
+- Todos los miembros harán revisiones completas del proyecto al menos una vez a la semana.
+- En caso de que algún miembro detecte alguna falla, o tenga una propuesta para mejorar el proyecto, se pondrá de acuerdo con el resto de miembros para discutir lo descubierto/propuesto en una llamada utilizando los medios de comunicación propuestos
 
 ## Organizacion y gestión de tareas:
 ddd
