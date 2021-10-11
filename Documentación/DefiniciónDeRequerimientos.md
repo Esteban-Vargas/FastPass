@@ -1,7 +1,5 @@
 # Definicion de Requerimientos
 
-## Usuarios
-
 ## Requerimientos de usuario
 Usuario: Ser el que usa el sistema
 FFFF
