@@ -1,8 +1,5 @@
 # Diagrama de clases
 
-***
+![Diagramadeclases1.png](https://github.com/EmaRCB/FastPass/blob/main/Recursos/Diagramadeclases1.PNG?raw=true)
 
-https://raw.githubusercontent.com/EmaRCB/FastPass/Gildardo/Recursos/Diagramadeclases1.PNG
-
-
-https://raw.githubusercontent.com/EmaRCB/FastPass/Gildardo/Recursos/Diagramadeclases2.PNG
+![Diagramadeclases2.png](https://github.com/EmaRCB/FastPass/blob/main/Recursos/Diagramadeclases2.PNG?raw=true)
