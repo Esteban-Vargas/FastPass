@@ -6,7 +6,8 @@
 - Chavez Bagundo Emanuel
 - Maldonado Santiago Gildardo Adrián
 - Pacheco Esteban
-- 
+
+
 ### ¿Qué es FastPass?
 FastPass es un bot para la plataforma de mensajería instantánea "Discord" que, mediante comandos, entregue a usuarios de Discord, cuentas de videojuegos usadas o con ciertas caracteristicas especificas que esten en venta en la plataforma "eldorado.gg", generando el link donde se alojen esas cuentas en forma de mensaje.
 
