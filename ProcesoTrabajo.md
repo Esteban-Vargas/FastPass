@@ -27,9 +27,14 @@ Otras observaciones respecto a la metodología que implementaremos es:
 - En caso de que algún miembro detecte alguna falla, o tenga una propuesta para mejorar el proyecto, lo comentará ya sea en un daily meeting o  en el sprint planning.
 - El sprint goal es el objetivo para un sprint.
 - El sprint backlog es el grupo de tareas que el equipo de desarrollo elige en el sprint planning junto con el plan para poder llevarlas a cabo.
+## Roles de equipo
+- Product owner: Chavez Bagundo Emanuel.
+- Scrum master: Maldonado Saantiago Gildardo Adrián
+- Equipo de desarrollo: Chavez Bagundo Emanuel, Maldonado Santiago Gildardo Adrián, Flores Juárez Víctor y Vargas Alonso Esteban.
+
 
 ## Organizacion y gestión de tareas:
-ddd
+
 
 ## Medios de comunicación
 
