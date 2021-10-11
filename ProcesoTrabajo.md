@@ -24,7 +24,7 @@ Otras observaciones respecto a la metodología que implementaremos es:
 
 - Hacer uso de los medios de comunicación elegidos para comentar cualquier cosa relacionada a nuestro proyecto. Esto con el fin de que todos sepan el rumbo que este está tomando siempre. Dichos comentarios se realizan cuando se considera pertinente, no hay un horario específico para hacerlos.
 - Todos los miembros harán revisiones completas del proyecto al menos una vez a la semana.
-- En caso de que algún miembro detecte alguna falla, o tenga una propuesta para mejorar el proyecto, se pondrá de acuerdo con el resto de miembros para discutir lo descubierto/propuesto en una llamada utilizando los medios de comunicación propuestos
+- En caso de que algún miembro detecte alguna falla, o tenga una propuesta para mejorar el proyecto, lo comentará ya sea en un daily meeting o  en el sprint planning.
 - El sprint goal es el objetivo para un sprint.
 - El sprint backlog es el grupo de tareas que el equipo de desarrollo elige en el sprint planning junto con el plan para poder llevarlas a cabo.
 
