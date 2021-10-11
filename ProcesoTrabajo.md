@@ -4,6 +4,7 @@
 SCRUM.
 
 La metodología SCRUM es un proceso en el que se llevan a cabo un conjunto de tareas de forma regular con el objetivo principal de trabajar de manera colaborativa. En resumen... trabajar en equipo de forma organizada.
+
 Las características de esta metodología son 3:
 - Transparencia: Todos saben qué está ocurriento con el proyecto en todo momento.
 - Inspección: Frecuentemente los miembros del equipo Scrum inspeccionan el progreso para detectar posibles problemas.
