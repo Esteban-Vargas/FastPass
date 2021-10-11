@@ -33,9 +33,6 @@ Otras observaciones respecto a la metodología que implementaremos es:
 - Equipo de desarrollo: Chavez Bagundo Emanuel, Maldonado Santiago Gildardo Adrián, Flores Juárez Víctor y Vargas Alonso Esteban.
 
 
-## Organizacion y gestión de tareas:
-
-
 ## Medios de comunicación
 
 El equipo se comunicará por medio de las aplicaciones de WhatsApp, Microsoft Teams y Discord respectivamente.
